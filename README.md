@@ -1,5 +1,4 @@
 # 登机口查询
-## Official Inquirement
 
 （[中文登机口](https://云机场.com)）
 （[国际登机口1](https://hiclouda.com)）
